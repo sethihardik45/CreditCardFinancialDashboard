@@ -70,6 +70,9 @@ Understanding the problem statement and the goals of the dashboard is the first 
 - Implement filters for interactivity.
 - Highlight key insights through visual elements.
 
+  ![image](https://github.com/sethihardik45/CreditCardFinancialDashboard/assets/143828829/312847c8-175d-407b-a151-8c79e035c165)
+
+
 ### Exporting and Sharing
 
 - Export the dashboard to a Power BI file.
@@ -79,3 +82,6 @@ Understanding the problem statement and the goals of the dashboard is the first 
 ## Summary
 
 By following this documentation, you will be able to create a comprehensive Power BI dashboard that demonstrates your ability to analyze and visualize data effectively. This project not only enhances your resume but also equips you with practical skills in data visualization and analysis.
+
+![image](https://github.com/sethihardik45/CreditCardFinancialDashboard/assets/143828829/59fc98b8-21e0-4f85-84ca-441c88438939)
+
